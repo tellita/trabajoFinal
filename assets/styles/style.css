@@ -73,7 +73,7 @@ nav ul li{
 
 /********Section: Presentación***********/
 /********** INICIO **************/
-/******Imagenes del app Huayco SoS*******/
+/******Imagenes del app Security Breach*******/
 .Logo1{
     float: right;
     position: relative;
@@ -340,7 +340,6 @@ section .Fgrid {
     }
 
 /*************FIN**********/
-/******** Section: Testimonio ******/
 /******** INICIO ********/
 @media (max-width: 1000px) {
 .Testimonio .Tgrid li {
