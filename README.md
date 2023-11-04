@@ -4,11 +4,11 @@ SecurityBreach es una solución digital diseñada para proteger páginas web de 
 
 ## Autores
 
-- Andrea Milagros Cabanillas Gora
-- Estrella del Pilar Ticona Panduro
-- Milene Ahomy Ocampo Osorio
-- Edwar Aquiles Jayo Aybar
-- Sergio Joel Pecan Pariona
+- Cabanillas Gora, Andrea Milagros
+- Ticona Panduro, Estrella del Pilar 
+- Ocampo Osorio, Milene Ahomy
+- Jayo Aybar, Edwar Aquiles 
+- Pecan Pariona, Sergio Joel 
 
 ## Segmento Objetivo
 
@@ -35,7 +35,7 @@ SecurityBreach está dirigido a:
 ## Cómo Empezar
 
 1. Clona este repositorio o descarga la última versión.
-2. Sigue las instrucciones de instalación en la documentación adjunta.
+2. Sigue las instrucciones de instalación en la documentación adjunto.
 3. Configura las opciones de seguridad según tus requisitos.
 4. ¡Comienza a proteger tu sitio web con SecurityBreach!
 
