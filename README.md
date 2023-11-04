@@ -4,11 +4,11 @@ SecurityBreach es una solución digital diseñada para proteger páginas web de 
 
 ## Autores
 
-- Andrea Milagros Cabanillas Gora
-- Estrella del Pilar Ticona Panduro
-- Milene Ahomy Ocampo Osorio
-- Edwar Aquiles Jayo Aybar
-- Sergio Joel Pecan Pariona
+- Cabanillas Gora, Andrea Milagros 
+- Ticona Panduro, Estrella del Pilar 
+- Ocampo Osorio, Estrella del Pilar 
+- Jayo Aybar, Edwar Aquiles 
+- Pecan Pariona, Sergio Joel 
 
 ## Segmento Objetivo
 
